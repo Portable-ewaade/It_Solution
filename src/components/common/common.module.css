@@ -1,0 +1,15 @@
+.header {
+  grid-column: 1 / span 12;
+  height: 45px;
+  background-color: #3498db;
+  color: #fff !important;
+}
+.header_tag {
+  width: 92%;
+  margin: auto;
+}
+.icons {
+  font-weight: light !important;
+  font-size: 1.5rem !important;
+}
+
